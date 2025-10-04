@@ -1,0 +1,16 @@
+category,name,type,parent,region
+color,Red,Primary,,
+color,Blue,Primary,,
+color,Yellow,Primary,,
+color,Purple,Mixed,Red + Blue,
+color,Orange,Mixed,Red + Yellow,
+animal,Lion,Mammal,,Africa
+animal,Elephant,Mammal,,Africa
+animal,Eagle,Bird,,North America
+animal,Penguin,Bird,,Antarctica
+animal,Salmon,Fish,,North America
+country,New Zealand,Country,,Oceania
+country,Australia,Country,,Oceania
+country,Japan,Country,,Asia
+country,Brazil,Country,,South America
+country,Norway,Country,,Europe

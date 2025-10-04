@@ -1,0 +1,72 @@
+# Hierarchy Data - Colors, Animals, Countries
+
+**Date:** 2025-10-04  
+**Purpose:** Test file for GitHub storage and format demonstration
+
+---
+
+## Colors
+
+### Primary Colors
+
+- **Red**
+  - Creates: Purple (with Blue), Orange (with Yellow)
+- **Blue**
+  - Creates: Purple (with Red)
+- **Yellow**
+  - Creates: Orange (with Red)
+
+### Mixed Colors
+
+- **Purple**
+  - Made from: Red + Blue
+- **Orange**
+  - Made from: Red + Yellow
+
+---
+
+## Animals by Region
+
+### Africa
+
+- **Lion** (Mammal)
+- **Elephant** (Mammal)
+
+### North America
+
+- **Eagle** (Bird)
+- **Salmon** (Fish)
+
+### Antarctica
+
+- **Penguin** (Bird)
+
+---
+
+## Countries by Region
+
+### Oceania
+
+- New Zealand
+- Australia
+
+### Asia
+
+- Japan
+
+### South America
+
+- Brazil
+
+### Europe
+
+- Norway
+
+---
+
+**ADMIN**
+
+**Created:** 2025-10-04  
+**Format:** Markdown  
+**Version:** 1.0  
+**Source:** CHaiMPION AI File Format Testing

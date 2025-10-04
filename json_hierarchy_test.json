@@ -1,0 +1,63 @@
+{
+  "colors": [
+    {
+      "name": "Red",
+      "type": "Primary",
+      "children": ["Purple", "Orange"]
+    },
+    {
+      "name": "Blue",
+      "type": "Primary",
+      "children": ["Purple"]
+    },
+    {
+      "name": "Yellow",
+      "type": "Primary",
+      "children": ["Orange"]
+    },
+    {
+      "name": "Purple",
+      "type": "Mixed",
+      "parents": ["Red", "Blue"]
+    },
+    {
+      "name": "Orange",
+      "type": "Mixed",
+      "parents": ["Red", "Yellow"]
+    }
+  ],
+  "animals": {
+    "Africa": [
+      {
+        "name": "Lion",
+        "type": "Mammal"
+      },
+      {
+        "name": "Elephant",
+        "type": "Mammal"
+      }
+    ],
+    "North America": [
+      {
+        "name": "Eagle",
+        "type": "Bird"
+      },
+      {
+        "name": "Salmon",
+        "type": "Fish"
+      }
+    ],
+    "Antarctica": [
+      {
+        "name": "Penguin",
+        "type": "Bird"
+      }
+    ]
+  },
+  "countries": {
+    "Oceania": ["New Zealand", "Australia"],
+    "Asia": ["Japan"],
+    "South America": ["Brazil"],
+    "Europe": ["Norway"]
+  }
+}

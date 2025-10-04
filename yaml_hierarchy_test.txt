@@ -1,0 +1,47 @@
+# Hierarchical data example with colors, animals, and countries
+
+colors:
+  primary:
+    - name: Red
+      creates: [Purple, Orange]
+    - name: Blue
+      creates: [Purple]
+    - name: Yellow
+      creates: [Orange]
+  
+  mixed:
+    - name: Purple
+      made_from: [Red, Blue]
+    - name: Orange
+      made_from: [Red, Yellow]
+
+animals:
+  by_region:
+    Africa:
+      mammals:
+        - Lion
+        - Elephant
+    
+    North America:
+      birds:
+        - Eagle
+      fish:
+        - Salmon
+    
+    Antarctica:
+      birds:
+        - Penguin
+
+countries:
+  Oceania:
+    - New Zealand
+    - Australia
+  
+  Asia:
+    - Japan
+  
+  South America:
+    - Brazil
+  
+  Europe:
+    - Norway
